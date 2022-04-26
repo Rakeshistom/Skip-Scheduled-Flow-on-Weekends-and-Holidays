@@ -32,5 +32,4 @@ global class CustomBusinessHourAndHolidayHandler {
        @InvocableVariable(label = 'outputIsBusinessHour' required = true)
        public Boolean outputIsBusinessHour;
     }
-
-}
+} 
